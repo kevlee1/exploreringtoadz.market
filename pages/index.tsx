@@ -34,26 +34,26 @@ const Robe = ({ robe }: { robe: RobeInfo }) => {
 const IndexPage = ({ robes, lastUpdate }: Props) => {
   return (
     <div className="py-3 md:pb-0 font-mono flex flex-col justify-center items-center gap-4 pt-10 md:w-screen">
-      <h1 className="text-lg md:text-3xl">Divine Robes</h1>
+      <h1 className="text-lg md:text-3xl">Alien Toadz</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {robes.length} bags for sale with Divine Robes. The floor
+          There are {robes.length} alien toadz out of 233 for sale. The floor
           price is {robes[0].price} ETH.
         </p>
         <p className="md:text-lg pt-2">
           Site by{' '}
           <a
             target="_blank"
-            href="https://twitter.com/worm_emoji"
+            href="https://twitter.com/kevlee97"
             className="underline"
           >
-            worm_emoji
+            klee
           </a>
           . Join the{' '}
           <a
             target="_blank"
             className="underline"
-            href="https://divineroles.vercel.app"
+            href="https://discord.gg/xdYxZffaGd"
           >
             Discord
           </a>
