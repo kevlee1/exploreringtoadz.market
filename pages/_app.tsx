@@ -14,7 +14,7 @@ function Robes({ Component, pageProps }) {
         `}
       </style>
       <Head>
-        <title>alientoadz.market</title>
+        <title>mystictoads.market</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&display=swap"
@@ -22,16 +22,16 @@ function Robes({ Component, pageProps }) {
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@kevlee97" />
-        <meta property="og:url" content="https://alientoadz.market" />
-        <meta property="og:title" content="alientoadz.market" />
+        <meta property="og:url" content="https://mystictoads.market" />
+        <meta property="og:title" content="mystictoads.market" />
         <link rel="icon" type="image/png" href="/favicon.png" />
         <meta
           property="og:description"
-          content="See the floor price of Alien Toadz from the CrypToadz project."
+          content="See the floor price of Toadz with Mysterious Hoodies from the CrypToadz project."
         />
-        <meta property="og:image" content="https://alientoadz.market/og.png" />
+        <meta property="og:image" content="https://mystictoads.market/og.png" />
         <script
-          data-goatcounter="https://alientoadz.goatcounter.com/count"
+          data-goatcounter="https://mystictoads.goatcounter.com/count"
           async
           src="//gc.zgo.at/count.js"
         ></script>
