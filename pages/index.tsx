@@ -34,11 +34,14 @@ const Robe = ({ robe }: { robe: RobeInfo }) => {
 const IndexPage = ({ robes, lastUpdate }: Props) => {
   return (
     <div className="py-3 md:pb-0 font-mono flex flex-col justify-center items-center gap-4 pt-10 md:w-screen">
-      <h1 className="text-lg md:text-3xl">Alien Toadz</h1>
+      <h1 className="text-lg md:text-3xl">Toadz with Mysterious Hoodies</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {robes.length} alien toadz out of 233 for sale. The floor
+          There are {robes.length} toadz with mysterious hoodies for sale. The floor
           price is {robes[0].price} ETH.
+        </p>
+        <p className="md:text-lg pt-2">
+          Always Comfy Vibes
         </p>
         <p className="md:text-lg pt-2">
           Site by{' '}
