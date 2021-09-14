@@ -29,7 +29,6 @@ function Robes({ Component, pageProps }) {
           property="og:description"
           content="See the floor price of Toadz with Mysterious Hoodies from the CrypToadz project."
         />
-        <meta property="og:image" content="https://mystictoads.market/og.png" />
         <script
           data-goatcounter="https://mystictoads.goatcounter.com/count"
           async
