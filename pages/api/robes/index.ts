@@ -53,7 +53,7 @@ export const fetchRobes = async () => {
             BigNumber.from(a.sell_orders[0]?.current_price.split('.')[0]),
           ),
         ),
-        url: a.permalink + '?ref=0x4AFF8E1aAbE8E1aC6263806b51E7f096CDa9D745',
+        url: a.permalink + '?ref=0x31C1b03EC94EC958DD6E53351f1760f8FF72946B',
         svg: a.image_url,
       }
     })
