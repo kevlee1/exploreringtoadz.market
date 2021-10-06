@@ -34,10 +34,10 @@ const Robe = ({ robe }: { robe: RobeInfo }) => {
 const IndexPage = ({ robes, lastUpdate }: Props) => {
   return (
     <div className="py-3 md:pb-0 font-mono flex flex-col justify-center items-center gap-4 pt-10 md:w-screen">
-      <h1 className="text-lg md:text-3xl">Toadz with Mysterious Hoodies</h1>
+      <h1 className="text-lg md:text-3xl">Explorer Toadz</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {robes.length} toadz with mysterious hoodies for sale. The floor
+          There are {robes.length} Explorer Toadz for sale. The floor
           price is {robes[0].price} ETH.
         </p>
         <p className="md:text-lg pt-2">
@@ -50,7 +50,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://twitter.com/kevlee97"
             className="underline"
           >
-            klee
+            kleebie.eth
           </a>
           . Join the{' '}
           <a
