@@ -1,0 +1,647 @@
+{
+  "3": {
+    "Background": "Violet",
+    "Body": "Gargoyle",
+    "Mouth": "Sad",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "63": {
+    "Background": "Blanket",
+    "Body": "Bones",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "81": {
+    "Background": "Violet",
+    "Body": "Gremplin Blue",
+    "Mouth": "Peach Smile",
+    "Head": "Floppy Hat",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "109": {
+    "Background": "Blanket",
+    "Body": "Only Socks",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "116": {
+    "Background": "Mold",
+    "Body": "Bones",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "152": {
+    "Background": "Blanket",
+    "Body": "Ape",
+    "Head": "Plaid Cap",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "176": {
+    "Background": "Greyteal",
+    "Body": "Normal",
+    "Mouth": "Bandit Smile",
+    "Head": "Stringy",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "306": {
+    "Background": "Greyteal",
+    "Body": "Alien",
+    "Accessory I": "Explorer",
+    "# Traits": 3
+  },
+  "324": {
+    "Background": "Dark",
+    "Body": "Dog",
+    "Head": "Rusty Cap",
+    "Eyes": "Nounish Red",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "422": {
+    "Background": "Damp",
+    "Body": "Booger",
+    "Eyes": "Bandit",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "456": {
+    "Background": "Dark",
+    "Body": "Albino",
+    "Mouth": "Beard",
+    "Head": "Wild Black",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "539": {
+    "Background": "Salmon",
+    "Body": "Undead",
+    "Mouth": "Blue Smile",
+    "Head": "Fez",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "581": {
+    "Background": "Greige",
+    "Body": "Toadbot",
+    "Head": "Dark Pigtails",
+    "Eyes": "Big Yellow Side-eye",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "642": {
+    "Background": "Greyteal",
+    "Body": "Gummy Peach",
+    "Eyes": "Glowing Blue",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "684": {
+    "Background": "Dark",
+    "Body": "Angry",
+    "Accessory I": "Explorer",
+    "# Traits": 3
+  },
+  "732": {
+    "Background": "Greyteal",
+    "Body": "Lasagna",
+    "Head": "Blue Pigtails",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "740": {
+    "Background": "Bubblegum",
+    "Body": "Only Socks",
+    "Mouth": "Green Bucktooth",
+    "Head": "Teal Knit Hat",
+    "Eyes": "Thick Square",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 7
+  },
+  "793": {
+    "Background": "Violet",
+    "Body": "Gummy Raspberry",
+    "Mouth": "Pink Bucktooth",
+    "Head": "Fez",
+    "Eyes": "Round Shades",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "961": {
+    "Background": "Bruise",
+    "Body": "Gummy Tropical",
+    "Mouth": "Beard",
+    "Eyes": "White & Red Goggles",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "1010": {
+    "Background": "Damp",
+    "Body": "Gremplin Green",
+    "Head": "Backward Cap",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "1033": {
+    "Background": "Greige",
+    "Body": "Normal",
+    "Head": "Orange Knit Hat",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "1060": {
+    "Background": "Bruise",
+    "Body": "Angry",
+    "Mouth": "Peach Smile",
+    "Eyes": "Nice Shades",
+    "Accessory II": "Short Cigarette",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "1172": {
+    "Background": "Bubblegum",
+    "Body": "Toadbot",
+    "Mouth": "Blue Smile",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "1271": {
+    "Background": "95",
+    "Body": "Only Socks",
+    "Head": "Swept Orange",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "1277": {
+    "Background": "Greige",
+    "Body": "Alien",
+    "Mouth": "Slimy",
+    "Head": "Floppy Hat",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "1351": {
+    "Background": "Middlegrey",
+    "Body": "Normal",
+    "Head": "Teal Knit Hat",
+    "Eyes": "Gold Specs",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "1529": {
+    "Background": "Salmon",
+    "Body": "Bones",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "2010": {
+    "Background": "Grey Foam",
+    "Body": "Chimp",
+    "Mouth": "Bandit Smile",
+    "Head": "Floppy Hat",
+    "Eyes": "Blue Eyeshadow",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 7
+  },
+  "2102": {
+    "Background": "Universe Foam",
+    "Body": "Gummy Blue",
+    "Mouth": "Green Bucktooth",
+    "Eyes": "Judgment",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "2156": {
+    "Background": "Bubblegum",
+    "Body": "Gummy Raspberry",
+    "Eyes": "Butthole",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "2166": {
+    "Background": "Greyteal",
+    "Body": "Alien",
+    "Mouth": "Pink Bucktooth",
+    "Eyes": "Dilated",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "2168": {
+    "Background": "Middlegrey",
+    "Body": "Gummy Tropical",
+    "Mouth": "Teal Smile",
+    "Head": "Rainbow Mohawk",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "2303": {
+    "Background": "Bruise",
+    "Body": "Pasty",
+    "Head": "Short Feathered Hat",
+    "Eyes": "Round Shades",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "2737": {
+    "Background": "Universe Foam",
+    "Body": "Gargoyle",
+    "Eyes": "Blue Eyeshadow",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "2750": {
+    "Background": "95",
+    "Body": "Gorilla",
+    "Mouth": "Shifty",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "2752": {
+    "Background": "Bubblegum",
+    "Body": "Gorilla",
+    "Head": "Orange Bumps",
+    "Eyes": "Round Shades",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "2918": {
+    "Background": "95",
+    "Body": "Creep",
+    "Eyes": "Thick Round",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "2931": {
+    "Background": "95",
+    "Body": "Gummy Slime",
+    "Head": "Swampy Bumps",
+    "Eyes": "Big Yellow Side-eye",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "2935": {
+    "Background": "Universe Foam",
+    "Body": "Gremplin Blue",
+    "Mouth": "Teal Smile",
+    "Eyes": "Undead",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "3034": {
+    "Background": "Salmon",
+    "Body": "Albino",
+    "Eyes": "Gold Specs",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "3289": {
+    "Background": "Middlegrey",
+    "Body": "Booger",
+    "Eyes": "Dilated",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "3360": {
+    "Background": "Greyteal",
+    "Body": "Gummy Raspberry",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "3543": {
+    "Background": "Greige",
+    "Body": "Dog",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "3553": {
+    "Background": "Bruise",
+    "Body": "Sleepy",
+    "Eyes": "Black & Blue Goggles",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "3622": {
+    "Background": "Middlegrey",
+    "Body": "Gummy Peach",
+    "Mouth": "Green Bucktooth",
+    "Head": "Toadstool",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "3828": {
+    "Background": "Blanket",
+    "Body": "Gummy Blue",
+    "Mouth": "Croak",
+    "Head": "Dark Single Bun",
+    "Eyes": "Blue Eyeshadow",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "3842": {
+    "Background": "Dark",
+    "Body": "Only Socks",
+    "Eyes": "Big Crazy Orange",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "3948": {
+    "Background": "Violet",
+    "Body": "Toadbot",
+    "Head": "Periwinkle Cap",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4301": {
+    "Background": "Grey Foam",
+    "Body": "Hypnotic",
+    "Head": "Rusty Cap",
+    "Eyes": "Butthole",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "4338": {
+    "Background": "Grey Foam",
+    "Body": "Berry",
+    "Head": "Dark Pigtails",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "4422": {
+    "Background": "Bruise",
+    "Body": "Blue Cat",
+    "Eyes": "Black & Blue Goggles",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4480": {
+    "Background": "Salmon",
+    "Body": "Berry",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4527": {
+    "Background": "Dark",
+    "Body": "Gummy Slime",
+    "Head": "Wild White",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4598": {
+    "Background": "Mold",
+    "Body": "Gummy Slime",
+    "Eyes": "Round Shades",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4624": {
+    "Background": "Bruise",
+    "Body": "Gremplin Blue",
+    "Mouth": "Beard",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4812": {
+    "Background": "Bruise",
+    "Body": "Normal",
+    "Eyes": "Nounish Blue",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "4916": {
+    "Background": "Violet",
+    "Body": "Gummy Blue",
+    "Mouth": "Bandit Smile",
+    "Head": "Swept Orange",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "5078": {
+    "Background": "Mold",
+    "Body": "Berry",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5094": {
+    "Background": "Bruise",
+    "Body": "Dog",
+    "Head": "Blonde Pigtails",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "5105": {
+    "Background": "Greige",
+    "Body": "Gremplin Blue",
+    "Mouth": "Bandit Smile",
+    "Eyes": "Butthole",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "5234": {
+    "Background": "Bruise",
+    "Body": "Sleepy",
+    "Mouth": "Blue Smile",
+    "Head": "Stringy",
+    "Eyes": "Black & Blue Goggles",
+    "Accessory II": "Earring",
+    "Accessory I": "Explorer",
+    "# Traits": 7
+  },
+  "5286": {
+    "Background": "Universe Foam",
+    "Body": "Albino",
+    "Eyes": "Big Crazy Orange",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5351": {
+    "Background": "Mold",
+    "Body": "Blood Bones",
+    "Eyes": "Undead",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5414": {
+    "Background": "Dark",
+    "Body": "Toadbot",
+    "Eyes": "Vampire",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5420": {
+    "Background": "Universe Foam",
+    "Body": "Dog",
+    "Head": "Swampy Single Bun",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "5549": {
+    "Background": "95",
+    "Body": "Booger",
+    "Eyes": "Undead",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5621": {
+    "Background": "Bruise",
+    "Body": "Berry",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5700": {
+    "Background": "Bubblegum",
+    "Body": "Dog",
+    "Eyes": "Big Crazy Red",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "5734": {
+    "Background": "Universe Foam",
+    "Body": "Normal",
+    "Mouth": "Bandit Wide",
+    "Eyes": "Round Shades",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "6115": {
+    "Background": "Middlegrey",
+    "Body": "Sleepy",
+    "Mouth": "Lincoln",
+    "Head": "Super Stringy",
+    "Eyes": "Judgment",
+    "Accessory II": "Just for the Looks",
+    "Accessory I": "Explorer",
+    "# Traits": 7
+  },
+  "6118": {
+    "Background": "Grey Foam",
+    "Body": "Gorilla",
+    "Head": "Truffle",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "6122": {
+    "Background": "Bruise",
+    "Body": "Only Socks",
+    "Mouth": "Lincoln",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "6149": {
+    "Background": "Middlegrey",
+    "Body": "Alien",
+    "Head": "Grey Knit Hat",
+    "Eyes": "Big Crazy Orange",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "6253": {
+    "Background": "95",
+    "Body": "Gummy Peach",
+    "Mouth": "Teal Smile",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "6261": {
+    "Background": "Damp",
+    "Body": "Normal",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "6313": {
+    "Background": "Violet",
+    "Body": "Gummy Peach",
+    "Mouth": "Well Actually",
+    "Eyes": "Blue Eyeshadow",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "6371": {
+    "Background": "Violet",
+    "Body": "Gummy Slime",
+    "Mouth": "Peach Smile",
+    "Head": "Periwinkle Cap",
+    "Eyes": "Nice Shades",
+    "Accessory II": "Blush",
+    "Accessory I": "Explorer",
+    "# Traits": 7
+  },
+  "6406": {
+    "Background": "Greige",
+    "Body": "Gremplin Blue",
+    "Mouth": "Bandit Smile",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "6407": {
+    "Background": "Greige",
+    "Body": "Pasty",
+    "Eyes": "Black & Blue Goggles",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "6615": {
+    "Background": "Middlegrey",
+    "Body": "Normal",
+    "Eyes": "Vampire",
+    "Accessory I": "Explorer",
+    "# Traits": 4
+  },
+  "6643": {
+    "Background": "Blanket",
+    "Body": "Pasty",
+    "Mouth": "Lincoln",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  },
+  "6725": {
+    "Background": "Middlegrey",
+    "Body": "Pasty",
+    "Head": "Periwinkle Cap",
+    "Eyes": "Gremplin",
+    "Accessory II": "Shackles",
+    "Accessory I": "Explorer",
+    "# Traits": 6
+  },
+  "6824": {
+    "Background": "Salmon",
+    "Body": "Normal",
+    "Mouth": "Green Bucktooth",
+    "Accessory II": "Watch",
+    "Accessory I": "Explorer",
+    "# Traits": 5
+  }
+}
