@@ -10,7 +10,10 @@ function Robes({ Component, pageProps }) {
             background: #000000e0;
             color: white;
             overflow-x: hidden;
+            padding: 0;
+            margin: 0;
           }
+          canvas {vertical-align: top;}
         `}
       </style>
       <Head>
@@ -34,6 +37,9 @@ function Robes({ Component, pageProps }) {
           async
           src="//gc.zgo.at/count.js"
         ></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5@1.4.0/lib/p5.min.js"></script>
+        <script type="text/javascript" src="stars.js"></script>
+
       </Head>
     </>
   )
