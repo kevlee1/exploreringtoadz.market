@@ -38,7 +38,7 @@ function Robes({ Component, pageProps }) {
           src="//gc.zgo.at/count.js"
         ></script>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/p5@1.4.0/lib/p5.min.js"></script>
-        <script type="text/javascript" src="stars.js"></script>
+        <script type="text/javascript" src="../stars.js"></script>
 
       </Head>
     </>
